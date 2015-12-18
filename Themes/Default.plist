@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backgroundColor</key>
+	<string>FFFFFF</string>
+	<key>defaultTextColor</key>
+	<string>000000</string>
+	<key>FUNCTION</key>
+	<string>2287B0</string>
+	<key>COMMENT</key>
+	<string>9698A3</string>
+	<key>ESCAPE</key>
+	<string>9698A3</string>
+	<key>STRING</key>
+	<string>DB4D1D</string>
+	<key>ATTRIBUTE</key>
+	<string>2287B0</string>
+	<key>NUMBER</key>
+	<string>2287B0</string>
+	<key>OPERATOR</key>
+	<string>000000</string>
+	<key>BOOLEAN</key>
+	<string>A41F5B</string>
+	<key>JUMP</key>
+	<string>A41F5B</string>
+	<key>KEYWORD</key>
+	<string>A41F5B</string>
+	<key>MACRO</key>
+	<string>64A363</string>
+	<key>TYPE</key>
+	<string>7A77CA</string>
+	<key>DIFF_A_FILE</key>
+	<string>A41F5B</string>
+	<key>DIFF_B_FILE</key>
+	<string>A41F5B</string>
+	<key>DIFF_CHANGE_CHUNK</key>
+	<string>7A77CA</string>
+	<key>DIFF_PLUS</key>
+	<string>3A9266</string>
+	<key>DIFF_NEGATIVE</key>
+	<string>D1201C</string>
+</dict>
+</plist>

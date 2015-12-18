@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DIFF_NEGATIVE</key>
+	<array>
+		<string>^(\-{1,2}(?!\-).*)$</string>
+	</array>
+	<key>DIFF_PLUS</key>
+	<array>
+		<string>^(\+{1,2}(?!\+).*)$</string>
+	</array>
+	<key>DIFF_CHANGE_CHUNK</key>
+	<array>
+		<string>@@ (\-|\+)\d*,?\d* (\-|\+)\d*,?\d* @@</string>
+	</array>
+	<key>DIFF_B_FILE</key>
+	<array>
+		<string>((\-|\+){3}\sa.+\n)</string>
+		<string>((\-|\+){3}\s/dev/null\n)</string>
+	</array>
+	<key>DIFF_A_FILE</key>
+	<array>
+		<string>((\-|\+){3}\sb.+\n)</string>
+		<string>((\-|\+){3}\s/dev/null\n)</string>
+	</array>
+</dict>
+</plist>

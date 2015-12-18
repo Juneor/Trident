@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FUNCTION</key>
+	<array/>
+	<key>COMMENT</key>
+	<array>
+		<string>(#[^&quot;\n\r]*(?:&quot;[^&quot;\n\r]*&quot;[^&quot;\n\r]*)*[\r\n])</string>
+	</array>
+	<key>ESCAPE</key>
+	<array/>
+	<key>STRING</key>
+	<array>
+		<string>(&quot;(?:[^&quot;\\]|\\.)*&quot;)</string>
+	</array>
+	<key>ATTRIBUTE</key>
+	<array>
+		<string>(\.[^\d]\w+)</string>
+	</array>
+	<key>NUMBER</key>
+	<array>
+		<string>(?&lt;!\w)(((0x[0-9a-fA-F]+)|(([0-9]+\.?[0-9]*|\.[0-9]+)([eE][-+]?[0-9]+)?))[fFlLuU]{0,2})(?!\w)</string>
+	</array>
+	<key>OPERATOR</key>
+	<array/>
+	<key>BOOLEAN</key>
+	<array/>
+	<key>JUMP</key>
+	<array/>
+	<key>KEYWORD</key>
+	<array>
+		<string>(?&lt;!\w)(BEGIN|END|and|begin|break|case|catch|defined\?|do|else|elsif|end|ensure|for|if|in|include|next|not|or|private|protected|public|redo|require|rescue|retry|return|then|throw|unless|until|when|while|yield|attr|attr_reader|attr_writer|attr_accessor|alias|module|class|def|undef|self|super|nil|false|true|__FILE__|__LINE__)(?!\w)</string>
+	</array>
+	<key>MACRO</key>
+	<array/>
+	<key>TYPE</key>
+	<array/>
+</dict>
+</plist>
