@@ -1,3 +1,6 @@
+
+![Logo](http://somerobots.com/assets/TransparentBGIconSmall.png)
+
 # Trident App
 [http://www.somerobots.com](http://www.somerobots.com)
 
