@@ -1,5 +1,4 @@
-
-![Logo](http://somerobots.com/assets/TransparentBGIconSmall.png)
+<img src="http://somerobots.com/assets/TransparentBGIconSmall.png" width="100">
 
 # Trident App
 [http://www.somerobots.com](http://www.somerobots.com)
