@@ -1,7 +1,22 @@
-<img src="http://somerobots.com/assets/TransparentBGIconSmall.png" width="100">
-# Trident App
-[http://www.somerobots.com](http://www.somerobots.com)
+# Git Trident App 
+[![Platform](https://img.shields.io/badge/platform-iOS-green.svg?style=flat)](http://somerobots.com)
+[![Twitter](https://img.shields.io/badge/twitter-%40somerobots-blue.svg?style=flat)](http://twitter.com/somerobots)
+[![Twitter](https://img.shields.io/badge/website-somerobots-lightgrey.svg?style=flat)](http://www.somerobots.com)
 
-This is the GitHub issue tracker for Trident App, feel free to open an issue if you find a bug with the App.
+#### Social coding made for iOS, works with GitHub and GitLab
 
-Additionally, this repository hosts the files used in the App to do syntax highlighting. If you'd like to contribute to add a language or new theme you are welcome to submit a pull request.
+This is our tracker, please open issues here regarding feature requests or bug reports.
+
+We want to make Trident awesome, so feedback is really appreciated. 🦄
+
+## Features
+
+- [x] Push Notifications for your watched Repos.
+- [x] Open code quickly with full Git history.
+- [x] Pull requests and Issues. 
+
+<img src="http://somerobots.com/assets/version15_images/MainProductImage.png" srcset="http://somerobots.com/assets/version15_images/MainProductImage@2x.png 2x">
+
+## Requirements
+
+- iOS 9.3+ 
