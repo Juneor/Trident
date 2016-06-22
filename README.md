@@ -5,7 +5,7 @@
 
 #### Social coding made for iOS, works with GitHub and GitLab
 
-This is our tracker, please open issues here regarding feature requests or bug reports.
+This is our issue tracker, please open issues here regarding feature requests or bug reports.
 
 We want to make Trident awesome, so feedback is really appreciated. 🦄
 
